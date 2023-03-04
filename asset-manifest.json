@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.e50dd94e.js",
-    "static/js/787.37faa4c4.chunk.js": "/static/js/787.37faa4c4.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.306ebb91.css",
+    "main.js": "/static/js/main.244e1bed.js",
+    "static/media/Reina.jpg": "/static/media/Reina.64c0d4c9e4dd465827ec.jpg",
+    "static/media/headshot.PNG": "/static/media/headshot.2b03068194a15008be16.PNG",
+    "static/media/Mamba.JPG": "/static/media/Mamba.9725ba6dcd96a0053243.JPG",
+    "static/media/Productive.png": "/static/media/Productive.822de724d82f592738e8.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.e50dd94e.js.map": "/static/js/main.e50dd94e.js.map",
-    "787.37faa4c4.chunk.js.map": "/static/js/787.37faa4c4.chunk.js.map"
+    "main.306ebb91.css.map": "/static/css/main.306ebb91.css.map",
+    "main.244e1bed.js.map": "/static/js/main.244e1bed.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e50dd94e.js"
+    "static/css/main.306ebb91.css",
+    "static/js/main.244e1bed.js"
   ]
 }

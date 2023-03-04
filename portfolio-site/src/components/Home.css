@@ -1,0 +1,24 @@
+.grid-container {
+    display: grid;
+    padding: 50px;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+    grid-template-areas:
+        "headshot about-me"
+        "carousel carousel"
+    ;
+    justify-items: center;
+    align-items: center;
+}
+
+.headshot {
+    grid-area: headshot;
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+}
+
+.about-me {
+    grid-area: about-me;
+
+}

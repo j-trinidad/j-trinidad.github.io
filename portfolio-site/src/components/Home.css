@@ -9,6 +9,7 @@
     ;
     justify-items: center;
     align-items: center;
+    background-image: linear-gradient(to right, green, lightgreen);
 }
 
 .headshot {

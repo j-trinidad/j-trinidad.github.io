@@ -12,8 +12,10 @@ const MyNavbar = () => (
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="me-auto">
-          <NavDropdown title="Projects" id="basic-nav-dropdown">
+          <NavDropdown title="Software" id="basic-nav-dropdown">
             <NavDropdown.Item href="https://github.com/jason-trinidad/ProductiveWeb/blob/master/productive_web/README.md">Productive</NavDropdown.Item>
+          </NavDropdown>
+          <NavDropdown title="Hardware" id="basic-nav-dropdown">
             <NavDropdown.Item as={NavLink} to="/projects/sscp">Aero</NavDropdown.Item>
             <NavDropdown.Item as={NavLink} to="/projects/reina">Reina</NavDropdown.Item>
           </NavDropdown>

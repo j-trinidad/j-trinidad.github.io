@@ -10,8 +10,8 @@ const Home = () => (
         <div className="about-container">
             <img className="headshot" src={headshot} alt="Headshot" />
             <p className="about-me">
-                My name is Jason. I'm a software engineer, amateur maker,
-                 and car enthusiast. Take a look at some of my projects!
+                My name is Jason. I'm a tech enthusiast, amateur maker,
+                 and car lover. Take a look at some of my projects!
             </p>
         </div>
         <Container>
